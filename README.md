@@ -1,7 +1,7 @@
 # Repository Name
 
 ## Overview
-This repository contains R scripts for preparing data, estimating propensity scores, and computing average causal effects (ACE) and area under the curve (AUC) for statistical models. The scripts are part of a workflow for causal inference analysis in observational studies.
+This repository contains R scripts for preparing data, estimating propensity scores, and computing average causal effects (ACE) and area under the curve (AUC) for the National Supported Work dataset. The scripts are part of a workflow for causal inference analysis in observational studies.
 
 ## Files and Directories
 
